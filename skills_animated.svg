@@ -1,0 +1,22 @@
+<svg width="100%" height="65" viewBox="0 0 900 65" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .track {
+        animation: scroll 15s linear infinite;
+      }
+      @keyframes scroll {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-660px); }
+      }
+      .track:hover {
+        animation-play-state: paused;
+      }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="transparent"/>
+  <g class="track">
+    <image href="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,golang,postgres,docker,aws,git,pytorch&theme=dark" x="0" y="5" height="52" />
+    <image href="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,golang,postgres,docker,aws,git,pytorch&theme=dark" x="660" y="5" height="52" />
+    <image href="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,golang,postgres,docker,aws,git,pytorch&theme=dark" x="1320" y="5" height="52" />
+  </g>
+</svg>
