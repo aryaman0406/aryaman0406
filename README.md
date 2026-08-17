@@ -67,14 +67,17 @@ Hobbies: [Tech Exploration, Open Source, Problem Solving]
 
 ---
 
-### 📊 GitHub Statistics & Activity
+### 📊 GitHub Statistics
 
 <div align="center">
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryaman0406&theme=tokyonight" width="95%" alt="Aryaman's GitHub Profile Details" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=aryaman0406&show_icons=true&theme=dark" alt="Aryaman's GitHub Stats" />
   </p>
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryaman0406&bg_color=0B0B0D&color=00D9FF&line=00D9FF&point=8FF1F7&area=true&area_color=1F2933&hide_border=true" width="95%" alt="Aryaman's Contribution Graph" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=aryaman0406&theme=dark" alt="Aryaman's GitHub Streak" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryaman0406&bg_color=0B0B0D&color=00D9FF&line=00D9FF&point=8FF1F7&area=true&area_color=1F2933&hide_border=true" width="95%" alt="Activity Graph" />
   </p>
 </div>
 
