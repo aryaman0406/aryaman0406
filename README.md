@@ -1,10 +1,12 @@
 <div align="center">
 
-  <img src="./header.svg" width="100%" alt="Aryaman Garg Header" />
+  <a href="#_">
+    <img src="./header.svg" width="100%" alt="Aryaman Garg Header" />
+  </a>
 
   <br/><br/>
 
-  <a href="https://git.io/typing-svg">
+  <a href="#_">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1500&color=00D9FF&center=true&vCenter=true&width=650&height=45&lines=Aryaman+Garg;Full-Stack+Developer+%7C+AI%2FML+Enthusiast" alt="Aryaman Garg - Full-Stack Developer | AI/ML Enthusiast" />
   </a>
 
@@ -58,7 +60,9 @@ Hobbies: [Tech Innovation, Open Source, Community Leadership]
 
 <!-- Moving Skill Icons Banner -->
 <div align="center">
-  <img src="./skills_animated.svg" width="100%" alt="Moving Skills" />
+  <a href="#_">
+    <img src="./skills_animated.svg" width="100%" alt="Moving Skills" />
+  </a>
 </div>
 
 <br/>
@@ -90,20 +94,28 @@ Hobbies: [Tech Innovation, Open Source, Community Leadership]
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=aryaman0406&show_icons=true&theme=dark" alt="Aryaman's GitHub Stats" />
+    <a href="#_">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=aryaman0406&show_icons=true&theme=dark" alt="Aryaman's GitHub Stats" />
+    </a>
   </p>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=aryaman0406&theme=dark" alt="Aryaman's GitHub Streak" />
+    <a href="#_">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=aryaman0406&theme=dark" alt="Aryaman's GitHub Streak" />
+    </a>
   </p>
   <p align="center">
-    <img src="./contribution_graph.svg" width="95%" alt="Continuous Animated Contribution Graph" />
+    <a href="#_">
+      <img src="./contribution_graph.svg" width="95%" alt="Continuous Animated Contribution Graph" />
+    </a>
   </p>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryaman0406&style=flat-square&color=00D9FF" alt="Profile Views" />
+  <a href="#_">
+    <img src="https://komarev.com/ghpvc/?username=aryaman0406&style=flat-square&color=00D9FF" alt="Profile Views" />
+  </a>
   <br/>
   <sub><i>"Building practical software and exploring AI to solve real-world problems."</i></sub>
 </div>
