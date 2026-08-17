@@ -96,7 +96,7 @@ Hobbies: [Tech Innovation, Open Source, Community Leadership]
     <img src="https://github-readme-streak-stats.herokuapp.com?user=aryaman0406&theme=dark" alt="Aryaman's GitHub Streak" />
   </p>
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryaman0406&bg_color=0B0B0D&color=00D9FF&line=00D9FF&point=8FF1F7&area=true&area_color=1F2933&hide_border=true" width="95%" alt="Activity Graph" />
+    <img src="./contribution_graph.svg" width="95%" alt="Continuous Animated Contribution Graph" />
   </p>
 </div>
 
