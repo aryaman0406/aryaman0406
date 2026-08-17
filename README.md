@@ -67,15 +67,14 @@ Hobbies: [Tech Exploration, Open Source, Problem Solving]
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Statistics & Activity
 
 <div align="center">
   <p align="center">
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryaman0406&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0B0D&title_color=00D9FF&text_color=C9D6DD&icon_color=00D9FF&rank_icon=github" alt="Aryaman's Stats" />
-    <img height="165" src="https://streak-stats.demolab.com/?user=aryaman0406&hide_border=true&background=0B0B0D&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D6DD&dates=9AA6B2&sideNums=00D9FF&currStreakNum=00D9FF" alt="Aryaman's Streak" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryaman0406&theme=tokyonight" width="95%" alt="Aryaman's GitHub Profile Details" />
   </p>
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryaman0406&bg_color=0B0B0D&color=00D9FF&line=00D9FF&point=8FF1F7&area=true&area_color=1F2933&hide_border=true" width="95%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryaman0406&bg_color=0B0B0D&color=00D9FF&line=00D9FF&point=8FF1F7&area=true&area_color=1F2933&hide_border=true" width="95%" alt="Aryaman's Contribution Graph" />
   </p>
 </div>
 
