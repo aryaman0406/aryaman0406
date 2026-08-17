@@ -5,22 +5,22 @@
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&height=50&lines=Hi%2C+I'm+Aryaman+Garg+%F0%9F%91%8B;Software+Developer+%7C+AI+%26+Web+Applications;Turning+ambitious+ideas+into+clean+code" alt="Aryaman Garg Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&height=50&lines=Hi%2C+I'm+Aryaman+Garg+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Turning+ambitious+ideas+into+practical+software" alt="Aryaman Garg Typing Animation" />
   </a>
 
   <br/>
 
   <p align="center">
-    <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
+    <a href="https://aryamangarg.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=0B0B0D" alt="Portfolio" />
     </a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <a href="https://www.linkedin.com/in/aryaman-garg-696a66274/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/aryaman0406" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="mailto:YOUR_EMAIL@example.com">
+    <a href="mailto:aryamangarg2005@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
@@ -33,22 +33,24 @@
 
 ```yaml
 Name: Aryaman Garg
-Location: India
-Role: Software Developer
-Focus: Scalable Web Applications & Artificial Intelligence (AI)
-Currently Learning: Machine Learning, Neural Networks & System Architecture
-Hobbies: [Tech Exploration, Open Source, Problem Solving]
+Location: Meerut / Bhopal, India
+Education: B.Tech in CSE — VIT Bhopal University
+Role: Full-Stack Developer & AI/ML Enthusiast
+Focus: Scalable Web Applications & Applied Artificial Intelligence (AI/ML)
+Currently Learning: Machine Learning, Generative AI & System Architecture
+Hobbies: [Tech Innovation, Open Source, Community Leadership]
 ```
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack | Links |
+| Project | Domain | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| 🌟 **Project One** | Full stack web application with seamless user experience and real-time features. | `Next.js` `TypeScript` `PostgreSQL` | [🌐 Live Demo](https://YOUR_DEMO_URL) · [💻 Code](https://github.com/aryaman0406/YOUR_REPO) |
-| 🤖 **Project Two** | AI-powered application designed for automated workflow processing and insights. | `Python` `FastAPI` `PyTorch` | [🌐 Live Demo](https://YOUR_DEMO_URL) · [💻 Code](https://github.com/aryaman0406/YOUR_REPO) |
-| ⚡ **Project Three** | High-performance interactive platform with modern responsive UI. | `React` `Node.js` `TailwindCSS` | [🌐 Live Demo](https://YOUR_DEMO_URL) · [💻 Code](https://github.com/aryaman0406/YOUR_REPO) |
+| 🧪 **ChemPulse-AI** | AI & Science | `Python` `AI/ML` `FastAPI` `React` | [🌐 Live Demo](https://chempulse-ai-1.onrender.com) · [💻 Code](https://github.com/aryaman0406) |
+| 💊 **MedTrack** | HealthTech | `React` `Node.js` `Full Stack` | [🌐 Live Demo](https://medication-tracker-vb5g.onrender.com) · [💻 Code](https://github.com/aryaman0406) |
+| 🌍 **Hyperlocal AQI Monitoring** | IoT & Environment | `IoT` `Python` `APIs` `React` | [🌐 Live Demo](https://hyperlocal-air-quality-monitoring-system-3pfi.onrender.com/) · [💻 Code](https://github.com/aryaman0406) |
+| 📈 **CostIntel-AI** | FinTech / AI | `AI Analytics` `Python` `React` | [🌐 Live Demo](https://costintel-ai-frontend.onrender.com/login) · [💻 Code](https://github.com/aryaman0406) |
 
 ---
 
@@ -66,18 +68,17 @@ Hobbies: [Tech Exploration, Open Source, Problem Solving]
     <td width="50%" valign="top">
       <h4>💻 Languages & Frontend</h4>
       <ul>
-        <li><b>Languages:</b> JavaScript, TypeScript, Python, Go, C++</li>
-        <li><b>Frontend:</b> React.js, Next.js, HTML5, CSS3, TailwindCSS</li>
-        <li><b>AI & ML:</b> PyTorch, OpenCV, AI APIs</li>
+        <li><b>Languages:</b> Python, JavaScript, C++, HTML5, CSS3, SQL</li>
+        <li><b>Frontend:</b> React.js, Next.js, Modern UI/UX</li>
+        <li><b>AI & ML:</b> Generative AI, Scikit-learn, Pandas, Streamlit, NLP</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>⚙️ Backend & Tools</h4>
       <ul>
-        <li><b>Backend:</b> Node.js, Express, FastAPI</li>
-        <li><b>Databases:</b> PostgreSQL, MongoDB</li>
-        <li><b>DevOps & Cloud:</b> Docker, AWS, Git, CI/CD</li>
-        <li><b>Tools:</b> VS Code, Postman</li>
+        <li><b>Backend:</b> Node.js, Express, Flask</li>
+        <li><b>Databases:</b> PostgreSQL, MongoDB, SQL</li>
+        <li><b>Tools & Platforms:</b> Git, GitHub, VS Code, Postman</li>
       </ul>
     </td>
   </tr>
@@ -104,5 +105,5 @@ Hobbies: [Tech Exploration, Open Source, Problem Solving]
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aryaman0406&style=flat-square&color=00D9FF" alt="Profile Views" />
   <br/>
-  <sub><i>"Building reliable, elegant, and impactful software."</i></sub>
+  <sub><i>"Building practical software and exploring AI to solve real-world problems."</i></sub>
 </div>
