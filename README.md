@@ -31,7 +31,7 @@
 
 <hr/>
 
-### 👨‍💻 About Me
+### About Me
 
 ```yaml
 Name: Aryaman Garg
@@ -40,23 +40,79 @@ Education: B.Tech in CSE — VIT Bhopal University
 Role: Full-Stack Developer & AI/ML Enthusiast
 Focus: Scalable Web Applications & Applied Artificial Intelligence (AI/ML)
 Currently Learning: Machine Learning, Generative AI & System Architecture
-Hobbies: [Tech Innovation, Open Source, Community Leadership]
+Interests: Open Source Collaboration, Software Engineering, Community Leadership
 ```
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-| Project | Domain | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| 🧪 **ChemPulse-AI** | AI & Science | `Python` `AI/ML` `FastAPI` `React` | [🌐 Live Demo](https://chempulse-ai-1.onrender.com) · [💻 Code](https://github.com/aryaman0406) |
-| 💊 **MedTrack** | HealthTech | `React` `Node.js` `Full Stack` | [🌐 Live Demo](https://medication-tracker-vb5g.onrender.com) · [💻 Code](https://github.com/aryaman0406) |
-| 🌍 **Hyperlocal AQI Monitoring** | IoT & Environment | `IoT` `Python` `APIs` `React` | [🌐 Live Demo](https://hyperlocal-air-quality-monitoring-system-3pfi.onrender.com/) · [💻 Code](https://github.com/aryaman0406) |
-| 📈 **CostIntel-AI** | FinTech / AI | `AI Analytics` `Python` `React` | [🌐 Live Demo](https://costintel-ai-frontend.onrender.com/login) · [💻 Code](https://github.com/aryaman0406) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>ChemPulse-AI</h3>
+      <p><i>AI &amp; Science</i></p>
+      <p>Full-stack intelligent platform designed for molecular workflow analysis and automated predictive processing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+      </p>
+      <p>
+        <a href="https://chempulse-ai-1.onrender.com" target="_blank"><b>Live Demo</b></a> &bull; 
+        <a href="https://github.com/aryaman0406" target="_blank"><b>Repository</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>MedTrack</h3>
+      <p><i>HealthTech</i></p>
+      <p>Comprehensive health management solution for tracking medication schedules, adherence analytics, and reminders.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+      </p>
+      <p>
+        <a href="https://medication-tracker-vb5g.onrender.com" target="_blank"><b>Live Demo</b></a> &bull; 
+        <a href="https://github.com/aryaman0406" target="_blank"><b>Repository</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Hyperlocal AQI Monitoring</h3>
+      <p><i>IoT &amp; Environment</i></p>
+      <p>Real-time environmental telemetry platform aggregating air quality indicators with interactive visual analytics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/APIs-005B94?style=flat-square&logo=postman&logoColor=white" alt="APIs"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+      </p>
+      <p>
+        <a href="https://hyperlocal-air-quality-monitoring-system-3pfi.onrender.com/" target="_blank"><b>Live Demo</b></a> &bull; 
+        <a href="https://github.com/aryaman0406" target="_blank"><b>Repository</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>CostIntel-AI</h3>
+      <p><i>FinTech &amp; AI</i></p>
+      <p>AI-driven financial analytics engine providing predictive expense forecasting, anomaly detection, and budget optimization.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+      </p>
+      <p>
+        <a href="https://costintel-ai-frontend.onrender.com/login" target="_blank"><b>Live Demo</b></a> &bull; 
+        <a href="https://github.com/aryaman0406" target="_blank"><b>Repository</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 <!-- Moving Skill Icons Banner -->
 <div align="center">
@@ -70,27 +126,59 @@ Hobbies: [Tech Innovation, Open Source, Community Leadership]
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>💻 Languages & Frontend</h4>
-      <ul>
-        <li><b>Languages:</b> Python, JavaScript, C++, HTML5, CSS3, SQL</li>
-        <li><b>Frontend:</b> React.js, Next.js, Modern UI/UX</li>
-        <li><b>AI & ML:</b> Generative AI, Scikit-learn, Pandas, Streamlit, NLP</li>
-      </ul>
+      <h4>Languages &amp; Core</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+      </p>
+      <h4>Frontend &amp; UI</h4>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+      </p>
+      <h4>AI &amp; Machine Learning</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+        <img src="https://img.shields.io/badge/Generative%20AI-00D9FF?style=flat-square&logo=openai&logoColor=black" alt="GenAI"/>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h4>⚙️ Backend & Tools</h4>
-      <ul>
-        <li><b>Backend:</b> Node.js, Express, Flask</li>
-        <li><b>Databases:</b> PostgreSQL, MongoDB, SQL</li>
-        <li><b>Tools & Platforms:</b> Git, GitHub, VS Code, Postman</li>
-      </ul>
+      <h4>Backend &amp; Frameworks</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+      </p>
+      <h4>Databases &amp; Cloud</h4>
+      <p>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
+      </p>
+      <h4>Tools &amp; Workflow</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 
 <div align="center">
   <p align="center">
