@@ -1,0 +1,167 @@
+<!--
+  Profile README — Minimal, Modern, Dark
+  Palette:
+   - Obsidian Black: #0B0B0D
+   - Deep Slate Grey: #1F2933
+   - Neon Electric Blue: #00D9FF
+   - Soft Cyan: #8FF1F7
+-->
+
+<!-- SECTION 1: HEADER -->
+<!-- Header: banner (inline SVG), title, subtitle, social badges -->
+<div align="center">
+
+  <!-- Modern banner graphic (SVG) -->
+  <!-- Uses obsidian black background, soft cyan glow, neon electric blue text accent -->
+  <p align="center">
+    <svg width="100%" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" role="img" aria-label="[INSERT YOUR NAME HERE] banner">
+      <defs>
+        <linearGradient id="g1" x1="0" x2="1">
+          <stop offset="0%" stop-color="#0B0B0D" />
+          <stop offset="100%" stop-color="#1F2933" />
+        </linearGradient>
+        <linearGradient id="g2" x1="0" x2="1">
+          <stop offset="0%" stop-color="#00D9FF" />
+          <stop offset="100%" stop-color="#8FF1F7" />
+        </linearGradient>
+        <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+          <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+          <feMerge>
+            <feMergeNode in="coloredBlur"/>
+            <feMergeNode in="SourceGraphic"/>
+          </feMerge>
+        </filter>
+      </defs>
+
+      <!-- Background -->
+      <rect width="100%" height="100%" fill="url(#g1)"/>
+
+      <!-- Decorative diagonal band -->
+      <g opacity="0.08">
+        <rect x="0" y="0" width="900" height="140" fill="#00D9FF" transform="skewX(-18) translate(-200,0)"/>
+      </g>
+
+      <!-- Name text with neon gradient and glow -->
+      <text x="50%" y="52%" text-anchor="middle" fill="url(#g2)" font-family="Inter, Roboto, Arial, sans-serif" font-size="34" font-weight="700" filter="url(#glow)">
+        [INSERT YOUR NAME HERE]
+      </text>
+
+      <!-- Subtitle -->
+      <text x="50%" y="78%" text-anchor="middle" fill="#9AA6B2" font-family="Inter, Roboto, Arial, sans-serif" font-size="12" letter-spacing="0.6">
+        [INSERT YOUR ONE-LINE DEVELOPER POSITIONING STATEMENT, e.g., Backend Lead specialising in Distributed Systems]
+      </text>
+    </svg>
+  </p>
+
+  <!-- Social badges (modern, clean, neon-accented) -->
+  <!-- Replace the href placeholders with your profile URLs -->
+  <p>
+    <a href="https://www.linkedin.com/in/[INSERT-LINKEDIN-ID]" target="_blank" rel="noreferrer">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%2300D9FF?style=flat-square&logo=linkedin&logoColor=0B0B0D" />
+    </a>
+    <a href="[INSERT-OTHER-SOCIAL-URL]" target="_blank" rel="noreferrer">
+      <img alt="Other" src="https://img.shields.io/badge/[INSERT-OTHER_NAME]-%238FF1F7?style=flat-square&logo=globe&logoColor=0B0B0D" />
+    </a>
+  </p>
+</div>
+
+<!-- SECTION 2: THE CORE -->
+<!-- Use a table for precise alignment: left = focus list, right = tech stack badges -->
+<!-- Table styling kept minimal and dark-friendly -->
+<table width="100%" cellpadding="12" cellspacing="0" style="background:transparent; border-collapse:collapse;">
+  <tr>
+
+    <!-- LEFT COLUMN: Current focus -->
+    <td valign="top" width="48%" style="background:#0B0B0D; border-radius:8px; padding:16px; color:#C9D6DD;">
+      <!-- Header -->
+      <h2 style="margin:0 0 8px 0; color:#00D9FF;">## 🔭 I’m currently focused on:</h2>
+
+      <!-- Concise list — replace items with your current priorities -->
+      <ul style="margin:8px 0 0 18px; color:#C9D6DD;">
+        <li>Designing resilient microservices & distributed systems (SLA-driven)</li>
+        <li>Scaling data pipelines & stream processing for realtime insights</li>
+        <li>Mentoring engineers & architecting platform reliability</li>
+      </ul>
+    </td>
+
+    <!-- SPACER -->
+    <td width="4%"></td>
+
+    <!-- RIGHT COLUMN: Tech Stack (grouped headings with flat SVG badges from Shields.io) -->
+    <td valign="top" width="48%" style="background:#0B0B0D; border-radius:8px; padding:16px; color:#C9D6DD;">
+      <h4 style="margin:0 0 10px 0; color:#00D9FF;">#### My Tech Stack</h4>
+
+      <!-- Frontend -->
+      <div style="margin-bottom:8px;">
+        <strong style="display:block; color:#8FF1F7; margin-bottom:6px;">Frontend:</strong>
+        <img alt="React" src="https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=%2300D9FF" /> 
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=next.js&logoColor=%23FFFFFF" />
+      </div>
+
+      <!-- Backend -->
+      <div style="margin-bottom:8px;">
+        <strong style="display:block; color:#8FF1F7; margin-bottom:6px;">Backend:</strong>
+        <img alt="Golang" src="https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img alt="PostgreSQL" src="https://img.shields.io/badge/Postgres-%23336791?style=flat-square&logo=postgresql&logoColor=white" />
+      </div>
+
+      <!-- DevOps / Cloud -->
+      <div style="margin-bottom:8px;">
+        <strong style="display:block; color:#8FF1F7; margin-bottom:6px;">DevOps / Cloud:</strong>
+        <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed?style=flat-square&logo=docker&logoColor=white" />
+        <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23007ACC?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+      </div>
+
+      <!-- Tools -->
+      <div>
+        <strong style="display:block; color:#8FF1F7; margin-bottom:6px;">Tools:</strong>
+        <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white" />
+        <img alt="Terraform" src="https://img.shields.io/badge/Terraform-%235A4F7D?style=flat-square&logo=terraform&logoColor=white" />
+        <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- SECTION 3: THE DATA -->
+<!-- Two GitHub Stats widgets side-by-side (ocean_dark theme), and a minimal trophies widget below -->
+<div style="display:flex; gap:12px; margin-top:18px; flex-wrap:wrap; justify-content:center; align-items:flex-start;">
+
+  <!-- GitHub readme stats: replace YOUR_GITHUB_USERNAME -->
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank" rel="noreferrer">
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=ocean_dark&count_private=true&cache_seconds=1800" style="border-radius:8px; box-shadow: 0 6px 18px rgba(0,0,0,0.6)"/>
+  </a>
+
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank" rel="noreferrer">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=ocean_dark&langs_count=6" style="border-radius:8px; box-shadow: 0 6px 18px rgba(0,0,0,0.6)"/>
+  </a>
+</div>
+
+<!-- Minimal GitHub Trophies -->
+<p align="center" style="margin-top:12px;">
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dark&no-frame=true" style="border-radius:8px;"/>
+</p>
+
+<!-- SECTION 4: DYNAMIC FEED -->
+<!-- Placeholder for a GH Action to inject latest three blog post titles (keeps README static until action runs) -->
+<!-- BLOG-POST-LIST:START -->
+<!--
+  Example injection format (action should insert three bullets like below):
+  - [Article Title One](https://example.com/article-1) — 2026-01-12
+  - [Article Title Two](https://example.com/article-2) — 2026-01-05
+  - [Article Title Three](https://example.com/article-3) — 2025-12-28
+-->
+<!-- BLOG-POST-LIST:END -->
+
+<!-- SECTION 5: FOOTER -->
+<!-- Tiny centered footer: visitor counter + personal motto -->
+<div align="center" style="margin-top:18px; color:#9AA6B2; font-size:13px;">
+  <!-- Visitor counter (replace YOUR_GITHUB_USERNAME) -->
+  <img alt="visitor counter" src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=%2300D9FF" />
+
+  <!-- Personal tagline -->
+  <p style="margin:8px 0 0 0; color:#C9D6DD;">[INSERT PERSONAL MOTTO, e.g., Building reliable systems that last]</p>
+</div>

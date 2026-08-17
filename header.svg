@@ -1,0 +1,37 @@
+<svg width="100%" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Aryaman Garg banner">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0B0B0D" />
+      <stop offset="100%" stop-color="#1F2933" />
+    </linearGradient>
+    <linearGradient id="g2" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00D9FF" />
+      <stop offset="100%" stop-color="#8FF1F7" />
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#g1)"/>
+
+  <!-- Decorative diagonal band -->
+  <g opacity="0.08">
+    <rect x="0" y="0" width="900" height="140" fill="#00D9FF" transform="skewX(-18) translate(-200,0)"/>
+  </g>
+
+  <!-- Name text with neon gradient and glow -->
+  <text x="50%" y="54%" text-anchor="middle" fill="url(#g2)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" filter="url(#glow)">
+    ARYAMAN GARG
+  </text>
+
+  <!-- Subtitle -->
+  <text x="50%" y="80%" text-anchor="middle" fill="#9AA6B2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="0.6">
+    Software Engineer • Full Stack &amp; Distributed Systems
+  </text>
+</svg>
