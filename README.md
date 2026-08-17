@@ -5,7 +5,7 @@
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&height=50&lines=Hi%2C+I'm+Aryaman+Garg+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Turning+ambitious+ideas+into+practical+software" alt="Aryaman Garg Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1500&color=00D9FF&center=true&vCenter=true&width=800&height=50&lines=Aryaman+Garg;Full-Stack+Developer+Embedding+AI+into+Applications" alt="Aryaman Garg - Full-Stack Developer Embedding AI into Applications" />
   </a>
 
   <br/>
@@ -35,8 +35,8 @@
 Name: Aryaman Garg
 Location: Meerut / Bhopal, India
 Education: B.Tech in CSE — VIT Bhopal University
-Role: Full-Stack Developer & AI/ML Enthusiast
-Focus: Scalable Web Applications & Applied Artificial Intelligence (AI/ML)
+Role: Full-Stack Developer Embedding AI into Applications
+Focus: Building Full-Stack Systems & Integrating AI Capabilities
 Currently Learning: Machine Learning, Generative AI & System Architecture
 Hobbies: [Tech Innovation, Open Source, Community Leadership]
 ```
