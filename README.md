@@ -35,7 +35,7 @@
 
 ```yaml
 Name: Aryaman Garg
-Location: Meerut / Bhopal, India
+Location: Meerut, India
 Education: B.Tech in CSE — VIT Bhopal University
 Role: Full-Stack Developer & AI/ML Enthusiast
 Focus: Scalable Web Applications & Applied Artificial Intelligence (AI/ML)
@@ -50,16 +50,16 @@ Interests: Open Source Collaboration, Software Engineering, Community Leadership
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>ChemPulse-AI</h3>
-      <p><i>AI &amp; Science</i></p>
-      <p>Full-stack intelligent platform designed for molecular workflow analysis and automated predictive processing.</p>
+      <h3>Sahayog-AI</h3>
+      <p><i>AI &amp; GovTech</i></p>
+      <p>AI-powered citizen assistance platform simplifying government scheme discovery, personalized eligibility matching, and multilingual voice guidance.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
       </p>
       <p>
-        <a href="https://chempulse-ai-1.onrender.com" target="_blank"><b>Live Demo</b></a> &bull; 
+        <a href="https://sahayog-ai.vercel.app/" target="_blank"><b>Live Demo</b></a> &bull; 
         <a href="https://github.com/aryaman0406" target="_blank"><b>Repository</b></a>
       </p>
     </td>
