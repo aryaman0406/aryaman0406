@@ -94,7 +94,7 @@ Interests: Open Source Collaboration, Software Engineering, Community Leadership
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>CostIntel-AI</h3>
+      <h3>CostIntel</h3>
       <p><i>FinTech &amp; AI</i></p>
       <p>AI-driven financial analytics engine providing predictive expense forecasting, anomaly detection, and budget optimization.</p>
       <p>
