@@ -59,8 +59,7 @@ Interests: Open Source Collaboration, Software Engineering, Community Leadership
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
       </p>
       <p>
-        <a href="https://sahayog-ai.vercel.app/" target="_blank"><b>Live Demo</b></a> &bull; 
-        <a href="https://github.com/aryaman0406" target="_blank"><b>Repository</b></a>
+        <a href="https://sahayog-ai.vercel.app/" target="_blank"><b>Live Demo</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -73,8 +72,7 @@ Interests: Open Source Collaboration, Software Engineering, Community Leadership
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
       </p>
       <p>
-        <a href="https://medication-tracker-vb5g.onrender.com" target="_blank"><b>Live Demo</b></a> &bull; 
-        <a href="https://github.com/aryaman0406" target="_blank"><b>Repository</b></a>
+        <a href="https://medication-tracker-vb5g.onrender.com" target="_blank"><b>Live Demo</b></a>
       </p>
     </td>
   </tr>
@@ -89,8 +87,7 @@ Interests: Open Source Collaboration, Software Engineering, Community Leadership
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
       </p>
       <p>
-        <a href="https://hyperlocal-air-quality-monitoring-system-3pfi.onrender.com/" target="_blank"><b>Live Demo</b></a> &bull; 
-        <a href="https://github.com/aryaman0406" target="_blank"><b>Repository</b></a>
+        <a href="https://hyperlocal-air-quality-monitoring-system-3pfi.onrender.com/" target="_blank"><b>Live Demo</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -103,8 +100,7 @@ Interests: Open Source Collaboration, Software Engineering, Community Leadership
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
       </p>
       <p>
-        <a href="https://costintel-ai-frontend.onrender.com/login" target="_blank"><b>Live Demo</b></a> &bull; 
-        <a href="https://github.com/aryaman0406" target="_blank"><b>Repository</b></a>
+        <a href="https://costintel-ai-frontend.onrender.com/" target="_blank"><b>Live Demo</b></a>
       </p>
     </td>
   </tr>
