@@ -78,16 +78,16 @@ Interests: Open Source Collaboration, Software Engineering, Community Leadership
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Hyperlocal AQI Monitoring</h3>
-      <p><i>IoT &amp; Environment</i></p>
-      <p>Real-time environmental telemetry platform aggregating air quality indicators with interactive visual analytics.</p>
+      <h3>MedPro</h3>
+      <p><i>HealthTech &amp; AI</i></p>
+      <p>Next-generation clinical scheduling and healthcare operations platform featuring AI diagnostic triage, real-time queues, and care plan management.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/APIs-005B94?style=flat-square&logo=postman&logoColor=white" alt="APIs"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       </p>
       <p>
-        <a href="https://hyperlocal-air-quality-monitoring-system-3pfi.onrender.com/" target="_blank"><b>Live Demo</b></a>
+        <a href="https://med-pro-one.vercel.app/" target="_blank"><b>Live Demo</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -184,7 +184,7 @@ Interests: Open Source Collaboration, Software Engineering, Community Leadership
   </p>
   <p align="center">
     <a href="#_">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=aryaman0406&theme=dark" alt="Aryaman's GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=aryaman0406&theme=dark" alt="Aryaman's GitHub Streak" />
     </a>
   </p>
   <p align="center">
